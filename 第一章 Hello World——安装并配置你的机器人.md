@@ -100,6 +100,9 @@ os.chdir(right_path)    # 将工作路径改至目标路径
 此节将会持续收录常见的报错以及其解决方法。
 
 ### nonebot与gocqhttp无法建立连接
+> 强烈推荐使用 nonebot-plugin-gocqhttp 插件来构建nonebot与gocq的连接。
+项目仓库 https://github.com/mnixry/nonebot-plugin-gocqhttp
+使用教程 https://www.bilibili.com/video/BV1xS4y1y7kp
 
 #### 由于nonebot未启动导致无法连接
 这个就不细说了，自己去找仔细看文章开头的视频，看看哪步出错了，哪个该打开的窗口打不开。
