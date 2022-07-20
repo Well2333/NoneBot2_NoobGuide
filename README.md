@@ -6,6 +6,13 @@
 
 我的GitHub账号:[Well2333](https://github.com/Well2333)
 
+## 2022/7/21 停更通知
+
+即日起，本系列将不再更新，正式完结（大概？）！
+
+不过，这并不是本人摸了，而是本人有幸参与了 NoneBot2 社区在ospp-开源之夏中官方文档的改进计划，致力于改善 NoneBot2 文档的使用体验。因此本系列教程的全部内容以及后续内容将会以更加专业、通俗且详细的方式整合进 NoneBot2 官方文档中，因此本系列教程没有继续更新的必要了 ~~（把自己饭碗砸了属于是）~~。截止至目前文档仍在编写阶段，预期在 2022/10 之后正式上线，目前的项目进展可查看 [项目仓库](https://github.com/nonebot/nonebot2-tutorial)。
+
+在此特别感谢 [NoneBot社区](https://github.com/nonebot)、项目导师 [SK-415](https://github.com/SK-415) 以及另一位文档编写者 [小雪](https://github.com/Dobiichi-Origami) 的帮助，没有你们的帮助我是绝无可能完成如此艰难的工作的。
 
 ## 什么是nonebot？
 关于NoneBot2，我们先来引用一下[官方文档](https://v2.nonebot.dev/)的描述
